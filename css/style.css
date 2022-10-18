@@ -1,7 +1,7 @@
 body
 {
     font-family: sans-serif;
-    background-color: #000000;
+    background-color: #070707;
 
 }
 
@@ -21,6 +21,13 @@ body
     color: #BB86FC;
     text-decoration: none;
     display: block;
+    transition-duration: 8ms;
+}
+.navBarElementA:hover
+{
+    color: #3700B3;
+    text-decoration: none;
+    display: block;
 }
 .navBarElement
 {
@@ -36,8 +43,11 @@ body
     margin: 0 auto;
     padding: 0;
     width: 100%;
-    /*padding: 15px 25px;*/
-    padding-top: 15px;
     font-size: 1.2em;
     box-sizing: border-box;
+}
+
+#primoUl
+{
+    padding-top: 15px;
 }

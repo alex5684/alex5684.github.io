@@ -75,4 +75,22 @@ margin-left: 2.5%;
 margin-right: 2.5%;
 padding-top: 2.5%;
 padding-bottom: 2.5%;
+
+}
+
+#contenutoDivMain tr
+{
+text-align: center;
+}
+
+#contenutoDivMain td
+{
+text-align: center;
+border: 1px solid #C5B798;
+border-radius: 25px;
+}
+
+#contenutoDivMain th
+{
+text-align: center;
 }

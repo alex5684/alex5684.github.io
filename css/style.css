@@ -99,3 +99,19 @@ border-radius: 25px;
 {
 text-align: center;
 }
+
+#news1
+{
+    background-color: #090909;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#news2
+{
+    background-color: #161616;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

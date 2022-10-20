@@ -61,6 +61,7 @@ body
 {
     background: #121212;
     width: 95%;
+    /*height: 100%;*/
     margin-left: 2.5%;
     margin-right: 2.5%;
     border-radius: 25px;
@@ -69,13 +70,17 @@ body
 
 #contenutoDivMain
 {
-color: lightgray;
-width: 95%;
-margin-left: 2.5%;
-margin-right: 2.5%;
-padding-top: 2.5%;
-padding-bottom: 2.5%;
+    color: lightgray;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
 
+}
+
+#h1DivMain
+{
+    color: lightgray;
+    text-align: center;
 }
 
 #contenutoDivMain tr

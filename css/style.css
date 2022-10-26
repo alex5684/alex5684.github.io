@@ -1,12 +1,12 @@
 body
 {
     font-family: sans-serif;
-    background-color: #070707;
+    background-color: #000000;
 }
 /*                  inizio css nav bar                */
 #navBar
 {
-    background: #121212;
+    background: #0C1821;
     height: 52px;
     width: 95%;
     margin-left: 2.5%;
@@ -20,7 +20,7 @@ body
 
 .navBarElementA
 {
-    color: #BB86FC;
+    color: #496A7D;
     text-decoration: none;
     display: block;
     transition-property:all;
@@ -28,7 +28,7 @@ body
 }
 .navBarElementA:hover
 {
-    color: #3700B3;
+    color: #86BBD8;
     text-decoration: none;
     display: block;
 }
@@ -56,11 +56,11 @@ body
 {
     padding-top: 15px;
 }
-/*                  fine css nav bar                */
+/*                  fine css nav bar                        */
 /*                  inizio css tabella orari                */
 #divMain
 {
-    background: #121212;
+    background: #0C1821;
     width: 95%;
     /*height: 100%;*/
     margin-left: 2.5%;
@@ -103,7 +103,7 @@ border-radius: 25px;
 text-align: center;
 }
 
-/*                  fine css tabella orari                        */
+/*                  fine css tabella orari                          */
 
 /*                  inizio css slider news home page                */
 
